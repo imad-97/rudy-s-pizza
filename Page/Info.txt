@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/scripts.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <link rel="stylesheet" href="normalize.css">
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet">
+
+When you ask most people what their favorite Mexican dish is, most will respond with classic dishes, such as tacos, burritos, carnitas, or fajitas. They’re classics for a reason: they’re delicious, and people love them!
+
+As such, a Mexican restaurant needs to offer a strong roster of classic dishes such as these. Truthfully, if a restaurant can’t execute traditional Mexican dishes, what does that say about more creative or fusion-type options offered on the menu?
+
+At Borracha, we have a strong roster of your favorite classic Mexican dishes. Starting on the appetizer menu, we have Guacamole (made with avocado, garlic, lime-cilantro, cotija cheese, and served with chips or veggies), Nachos (made with jalapeno cheese sauce, pico de gallo, arbol salsa, sour cream, pickled red onions, and jalapenos); we also have an entire section of the menu dedicated to tacos, both street and traditional style; burritos, enchiladas, fajitas also have their ample real estate on the menu, as well.
