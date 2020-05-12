@@ -10,4 +10,5 @@ Installation instructions - The steps are pretty easy, just going to the site's 
 Usage - The website is made to be used for advertising the food available by Rudy's Pizza and Bakery. There are plans to have the ability to order food online.
 
 Credits, Author - Imad Abdulelah
+
 License - GNU Affero General Public License V3.0
